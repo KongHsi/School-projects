@@ -1,0 +1,12 @@
+query: commonInfluencers 1 2
+<result>
+3
+4
+5
+</result>
+
+query: numRetweets 6 9
+<result>
+3
+</result>
+

@@ -1,2 +1,3 @@
-# Public
-The purpose of this public repo is for showing some projects that I have done at school. 
+# School-projects(public)
+
+The purpose of this repo is for showing some projects that I have done at school. 
